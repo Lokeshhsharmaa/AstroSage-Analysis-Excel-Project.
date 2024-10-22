@@ -1,1 +1,2 @@
 # AstroSage-Analysis-Excel-Project.
+my task is with optimizing the call center operations for AstroSage, which has received a 1 crore investment. The goal is to determine how to allocate this investment to maximize operational efficiency, customer satisfaction, and profitability. This project will involve analyzing historical call data, performance metrics, and market trends to make informed decisions
